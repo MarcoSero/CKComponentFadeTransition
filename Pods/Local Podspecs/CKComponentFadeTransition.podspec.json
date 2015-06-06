@@ -1,0 +1,26 @@
+{
+  "name": "CKComponentFadeTransition",
+  "version": "0.0.1",
+  "summary": "A short description of CKComponentFadeTransition.",
+  "description": "                   A longer description of CKComponentFadeTransition in Markdown format.\n\n                   * Think: Why did you write this? What is the focus? What does it do?\n                   * CocoaPods will be using this to generate tags, and improve search results.\n                   * Try to keep it short, snappy and to the point.\n                   * Finally, don't worry about the indent, CocoaPods strips it!\n",
+  "homepage": "http://EXAMPLE/CKComponentFadeTransition",
+  "license": "MIT (example)",
+  "authors": {
+    "Marco Sero": "marco@marcosero.com"
+  },
+  "social_media_url": "http://twitter.com/marcosero",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "http://EXAMPLE/CKComponentFadeTransition.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "CKComponentFadeTransition/Source/*.{h,m,mm}",
+  "public_header_files": "CKComponentFadeTransition/Source/*.{h,m,mm}",
+  "dependencies": {
+    "ComponentKit": [
+
+    ]
+  }
+}
