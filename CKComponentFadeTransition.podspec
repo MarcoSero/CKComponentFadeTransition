@@ -8,12 +8,12 @@ Pod::Spec.new do |s|
                     with `CKNetworkImageComponent`.
                    DESC
 
-  s.homepage     = "http://github.com/MarcoSero/CKComponentFadeTransition"
+  s.homepage     = "https://github.com/MarcoSero/CKComponentFadeTransition"
   s.license      = "MIT"
   s.author             = { "Marco Sero" => "marco@marcosero.com" }
-  s.social_media_url   = "http://twitter.com/marcosero"
+  s.social_media_url   = "https://twitter.com/marcosero"
   s.platform     = :ios, "7.0"
-  s.source       = { :git => "http://github.com/MarcoSero/CKComponentFadeTransition.git", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/MarcoSero/CKComponentFadeTransition.git", :tag => "0.0.1" }
   s.source_files = "CKComponentFadeTransition/Source/*.{h,m,mm}"
   s.public_header_files = "CKComponentFadeTransition/Source/*.{h}"
   s.dependency "ComponentKit"
