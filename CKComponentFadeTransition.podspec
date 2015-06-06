@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "7.0"
   s.source       = { :git => "http://github.com/MarcoSero/CKComponentFadeTransition.git", :tag => "0.0.1" }
   s.source_files = "CKComponentFadeTransition/Source/*.{h,m,mm}"
-  s.public_header_files = "CKComponentFadeTransition/Source/*.{h,m,mm}"
+  s.public_header_files = "CKComponentFadeTransition/Source/*.{h}"
   s.dependency "ComponentKit"
 end
 
